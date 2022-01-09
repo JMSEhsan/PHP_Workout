@@ -13,5 +13,10 @@ $txt = "PHP";
 echo "I love $txt!";
 ?>
 
+<?php
+$x = 5 /* + 15 */ + 5 * 6;
+echo $x;
+?>
+
 </body>
 </html>
