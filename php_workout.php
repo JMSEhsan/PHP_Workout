@@ -23,8 +23,9 @@ echo(pi()); // returns 3.1415926535898
 ?>
 
 <?php
-echo(min(0, 400, 30, 200, -30, -60));  // returns -60
-echo(max(0, 400, 30, 200, -30, -60));  // returns 400
+echo(min(0, 400, 30, 200, -30, -60). "\n"); // returns -60
+echo(max(0, 400, 30, 200, -30, -60). "\n");  // returns 400
 ?>
+
 </body>
 </html>
